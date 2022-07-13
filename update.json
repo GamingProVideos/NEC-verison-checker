@@ -1,18 +1,35 @@
 {
-  {
-    "homepage" : "https://www.curseforge.com/minecraft/mc-mods/never-enough-currency-2",
-    "promos":{
-        "1.16.5-latest":"1.0.5",
-        "1.16.5-recommended":"1.0.5",
-        
-        "1.17.1-latest":"1.0.4",
-        "1.17.1-recommended":"1.0.4",
-
-        "1.18.2-latest":"1.0.4",
-        "1.18.2-recommended":"1.0.4",
-                  
-        "1.19-latest":"1.19-1.0.4",
-        "1.19-recommended":"1.19-1.0.4"
-    }
-  } 
+	"homepage": "https://www.curseforge.com/minecraft/mc-mods/never-enough-currency-2",
+	"promos": {
+		"1.19-latest": "1.0.4",
+		"1.19-recommended": "1.0.4",
+		"1.18.2-latest": "1.0.4",
+		"1.18.2-recommended": "1.0.4",
+		"1.18.1-latest": "1.0.4",
+		"1.18.1-recommended": "1.0.4",
+		"1.17.1-latest": "1.0.4",
+		"1.17.1-recommended": "1.0.4",
+		"1.16.5-latest": "1.0.4",
+		"1.16.5-recommended": "1.0.4",
+		"1.15.2-latest": "1.0.4",
+		"1.15.2-recommended": "1.0.4",
+		"1.14.4-latest": "1.0.4",
+		"1.14.4-recommended": "1.1.0.40.4"
+	},
+	"1.19": {
+		"8.0.3": "updates to forge 41.0.94",
+		"8.0.2": "improvements"
+	},
+	"1.18.2": {
+		"1.0.4": "Big Update Coming soon"
+	},
+	"1.18.1": {
+		"1.0.4": "final version"
+	},
+	"1.17.1": {
+		"1.0.4": "final version"
+	},
+	"1.16.5": {
+		"1.0.4": "final version",
+	}
 }
